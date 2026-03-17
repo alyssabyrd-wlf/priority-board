@@ -1,0 +1,77 @@
+{
+  "title": "WEEKEND PRIORITIES",
+  "dateRange": "03/12/26-03/18/26",
+  "groups": [
+    {
+      "id": "zwclxlf",
+      "title": "GROUP 10000",
+      "cards": [
+        {
+          "id": "k9arp5i",
+          "text": "EDM1, EDM2: XC"
+        },
+        {
+          "id": "m8k3qih",
+          "text": "Multus.1: XC"
+        },
+        {
+          "id": "4rtt019",
+          "text": "Robodrill: XC cut / hone"
+        }
+      ]
+    },
+    {
+      "id": "7s60n9t",
+      "title": "GROUP 302",
+      "cards": [
+        {
+          "id": "m5n48lt",
+          "text": "TMA2, TMA4: C4X"
+        },
+        {
+          "id": "vd0numt",
+          "text": "TMA1: SSTS V3"
+        },
+        {
+          "id": "ch0vi0j",
+          "text": "Broach: C4X & XC"
+        }
+      ]
+    },
+    {
+      "id": "fiei730",
+      "title": "GROUP 99",
+      "cards": [
+        {
+          "id": "k8lv85r",
+          "text": "LB1: WSTS V2"
+        },
+        {
+          "id": "08p5hn1",
+          "text": "LB2: SSTS HD"
+        }
+      ]
+    },
+    {
+      "id": "4imrdv9",
+      "title": "GROUP 200",
+      "cards": [
+        {
+          "id": "1ze7dee",
+          "text": "TMA3: WS SSP HD"
+        },
+        {
+          "id": "jk7upb8",
+          "text": "Multus.2: SS SSP HD"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Testing this feature ",
+    "Test test ",
+    "wahooooo",
+    "NICE",
+    "why u no work"
+  ]
+}
