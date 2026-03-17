@@ -1,24 +1,81 @@
 {
   "title": "WEEKEND PRIORITIES",
-  "dateRange": "",
+  "dateRange": "03/13/26 - 03/15/26",
   "groups": [
     {
-      "id": "vzv8nxc",
-      "title": "GROUP 4",
+      "id": "673htk5",
+      "title": "Top priority (group 1)",
       "cards": [
         {
-          "id": "m3iqs80",
-          "text": "TMA3: WS SSP HD"
+          "id": "i3oymnc",
+          "text": "Robodrill: XC cut / hone"
         },
         {
-          "id": "y5a00zg",
-          "text": "Multus.2: SS SSP HD"
+          "id": "yuwrz3p",
+          "text": "EDM1, EDM2: XC"
+        },
+        {
+          "id": "ozd0e01",
+          "text": "Multus.1: XC"
+        }
+      ]
+    },
+    {
+      "id": "zxkiwp8",
+      "title": "Group 2",
+      "cards": [
+        {
+          "id": "zymcg8n",
+          "text": "Broach: C4X & XC"
+        },
+        {
+          "id": "7divqrm",
+          "text": "TMA2, TMA4: C4X"
+        },
+        {
+          "id": "5wt833f",
+          "text": "TMA1: SSTS V3"
+        },
+        {
+          "id": "ay7fuas",
+          "text": "TMA5: WSTS HD"
+        }
+      ]
+    },
+    {
+      "id": "c9jaavw",
+      "title": "Group 3",
+      "cards": [
+        {
+          "id": "agkt324",
+          "text": "LB1: WSTS V2"
+        },
+        {
+          "id": "copzo5z",
+          "text": "LB2: SSTS HD "
+        },
+        {
+          "id": "6fvjrad",
+          "text": "S206.1: HD Curved Shoes "
+        }
+      ]
+    },
+    {
+      "id": "449taid",
+      "title": "NEW GROUP",
+      "cards": [
+        {
+          "id": "x3ml8dn",
+          "text": "TMA3: WS SSP HD "
+        },
+        {
+          "id": "adh1exh",
+          "text": "Multus.2: SS SSP HD "
         }
       ]
     }
   ],
   "notes": [
-    "Need to keep bow bender running (HD Bows or HD Cali Bows).",
-    "Testing"
+    "Need to keep bow bender running (HD Bows or HD Cali Bows)"
   ]
 }
