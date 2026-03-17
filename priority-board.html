@@ -859,11 +859,7 @@
 
 <!-- ─── DISPLAY VIEW ─────────────────────────────── -->
 <div id="display-view">
-  <div style="background:#222;color:#aaa;font-size:0.75rem;padding:4px 12px;font-family:monospace;display:flex;justify-content:space-between;align-items:center;">
-  <span id="d-status">Initializing...</span>
-  <span id="d-config-hint"></span>
-</div>
-<div class="display-header">
+  <div class="display-header">
     <div class="display-header-left">
       <h1 id="d-title">PRIORITIES</h1>
       <div class="date-range" id="d-date"></div>
@@ -874,6 +870,9 @@
   <div class="display-notes" id="d-notes-section">
     <div class="display-notes-title">Notes</div>
     <div id="d-notes"></div>
+  </div>
+  <div id="d-status-bar" style="position:fixed;bottom:0;left:0;right:0;padding:6px 16px;text-align:right;font-family:'AvenirNext',sans-serif;font-size:0.72rem;color:#aaa;letter-spacing:0.04em;">
+    <span id="d-status"></span>
   </div>
 </div>
 
@@ -992,8 +991,7 @@ function init() {
 function startDisplayMode() {
   document.getElementById('display-view').style.display = 'block';
   const cfg = getConfig();
-  const hint = document.getElementById('d-config-hint');
-  if (hint) hint.textContent = cfg.username && cfg.repo ? `${cfg.username}/${cfg.repo}` : 'not configured';
+
   loadAndRender();
   setInterval(loadAndRender, 30000); // refresh every 30 seconds
 }
@@ -1012,7 +1010,7 @@ async function loadAndRender() {
     if (res.ok) {
       data = await res.json();
       boardData = data;
-      const now = new Date().toLocaleTimeString();
+      const now = new Date().toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
       statusEl.textContent = `Last updated: ${now}`;
       statusEl.style.color = '#27ae60';
     } else {
