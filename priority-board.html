@@ -1005,10 +1005,11 @@ async function loadAndRender() {
   statusEl.style.color = '#888';
 
   try {
-    const url = `https://raw.githubusercontent.com/${cfg.username}/${cfg.repo}/main/board-data.json?t=${Date.now()}`;
+    const url = `https://api.github.com/repos/${cfg.username}/${cfg.repo}/contents/board-data.json`;
     const res = await fetch(url);
     if (res.ok) {
-      data = await res.json();
+      const file = await res.json();
+      data = JSON.parse(atob(file.content.replace(/\n/g, '')));
       boardData = data;
       const now = new Date().toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
       statusEl.textContent = `Last updated: ${now}`;
