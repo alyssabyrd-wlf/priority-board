@@ -1,59 +1,73 @@
 {
   "title": "WEEKEND PRIORITIES",
-  "dateRange": "03/12/26-03/18/26",
+  "dateRange": "",
   "groups": [
     {
-      "id": "7s60n9t",
-      "title": "GROUP 302",
+      "id": "xih004a",
+      "title": "GROUP 1",
       "cards": [
         {
-          "id": "m5n48lt",
-          "text": "TMA2, TMA4: C4X"
+          "id": "wy43fe5",
+          "text": "Robodrill: XC cut / hone"
         },
         {
-          "id": "vd0numt",
-          "text": "TMA1: SSTS V3"
+          "id": "3vguw0o",
+          "text": "EDM1, EDM2: XC"
         },
         {
-          "id": "ch0vi0j",
-          "text": "Broach: C4X & XC"
+          "id": "qgdjtqd",
+          "text": "Multus.1: XC"
         }
       ]
     },
     {
-      "id": "fiei730",
-      "title": "GROUP 99",
+      "id": "6lrcuqr",
+      "title": "GROUP 2",
       "cards": [
         {
-          "id": "k8lv85r",
+          "id": "uy55y00",
+          "text": "Broach: C4X & XC"
+        },
+        {
+          "id": "yhvxqtr",
+          "text": "TMA2, TMA4: C4X"
+        },
+        {
+          "id": "juigbaq",
+          "text": "TMA1: SSTS V3"
+        }
+      ]
+    },
+    {
+      "id": "rtn35s0",
+      "title": "GROUP 3",
+      "cards": [
+        {
+          "id": "d2upl5q",
           "text": "LB1: WSTS V2"
         },
         {
-          "id": "08p5hn1",
+          "id": "0oole1h",
           "text": "LB2: SSTS HD"
         }
       ]
     },
     {
-      "id": "4imrdv9",
-      "title": "GROUP 200",
+      "id": "vzv8nxc",
+      "title": "GROUP 4",
       "cards": [
         {
-          "id": "1ze7dee",
+          "id": "m3iqs80",
           "text": "TMA3: WS SSP HD"
         },
         {
-          "id": "jk7upb8",
+          "id": "y5a00zg",
           "text": "Multus.2: SS SSP HD"
         }
       ]
     }
   ],
   "notes": [
-    "Testing this feature ",
-    "Test test ",
-    "wahooooo",
-    "NICE",
-    "why u no work"
+    "Need to keep bow bender running (HD Bows or HD Cali Bows)."
   ]
 }
