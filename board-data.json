@@ -1,6 +1,6 @@
 {
   "title": "WEEKEND PRIORITIES",
-  "dateRange": "03/13/26 - 03/15/26",
+  "dateRange": "03/27/26 - 03/29/26",
   "groups": [
     {
       "id": "673htk5",
@@ -35,10 +35,6 @@
         {
           "id": "5wt833f",
           "text": "TMA1: SSTS V3"
-        },
-        {
-          "id": "ay7fuas",
-          "text": "TMA5: WSTS HD"
         }
       ]
     },
@@ -47,16 +43,20 @@
       "title": "Group 3",
       "cards": [
         {
+          "id": "copzo5z",
+          "text": "LB2: SSP V2"
+        },
+        {
           "id": "agkt324",
           "text": "LB1: WSTS V2"
         },
         {
-          "id": "copzo5z",
-          "text": "LB2: SSTS HD "
+          "id": "hui86yr",
+          "text": "S206.2: HD Extractors "
         },
         {
-          "id": "6fvjrad",
-          "text": "S206.1: HD Curved Shoes "
+          "id": "ay7fuas",
+          "text": "TMA5: WSTS HD"
         }
       ]
     },
@@ -66,16 +66,24 @@
       "cards": [
         {
           "id": "x3ml8dn",
-          "text": "TMA3: WS SSP HD "
+          "text": "TMA3: Firefly "
+        },
+        {
+          "id": "6fvjrad",
+          "text": "S206.1: HD Curved Shoes "
         },
         {
           "id": "adh1exh",
           "text": "Multus.2: SS SSP HD "
+        },
+        {
+          "id": "qdwp6at",
+          "text": "EDM3: HD Cali Bows"
         }
       ]
     }
   ],
   "notes": [
-    "Need to keep bow bender running (HD Bows or HD Cali Bows)"
+    "Need to keep bow bender running (HD Cali Bows preferred) "
   ]
 }
