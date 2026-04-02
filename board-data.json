@@ -1,6 +1,6 @@
 {
-  "title": "THIS WEEK'S PRIORITIES",
-  "dateRange": "03/30/26 - 04/03/26",
+  "title": "WEEKEND PRIORITIES",
+  "dateRange": "04/03/26 - 04/05/26",
   "groups": [
     {
       "id": "673htk5",
@@ -65,10 +65,6 @@
       "title": "group 4",
       "cards": [
         {
-          "id": "x3ml8dn",
-          "text": "TMA3: Firefly parts "
-        },
-        {
           "id": "6fvjrad",
           "text": "S206.1: HD Curved Shoes "
         },
@@ -84,10 +80,9 @@
     }
   ],
   "notes": [
-    "Need to keep bow bender running (HD Cali Bows preferred) ",
-    "Thursday Outbound Heat Treat Shipment: HD Cali Bows (800+) , HD Extractors (400+) , C4X Barrels (350+) , and XC Barrels (150+) ",
-    "Thursday Outbound Anodizing Shipment: HD Curved Shoes (950+) ",
-    "If needed / short on hands, we can hold Multus.2 (SS SSP HD) to allow focus on other tasks/parts. ",
-    "DAILY SHIPMENTS OF SSTS V2 FOR THE NEXT 10 DAYS (Until April 15th) "
+    "Need to get more HD Curved Shoes sanded for a Monday shipment to BIC (400 minimum).",
+    "If short on hands/time, please hold Multus.2 (SS SSP HD) to allow focus on other tasks/parts. ",
+    "Daily shipments of SSTS V2 on \"open\" office days, until April 15th.",
+    "Please begin honing the heat treated barrels (301 C4X, and 100 XC) on Robodrill. "
   ]
 }
