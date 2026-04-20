@@ -33,6 +33,10 @@
           "text": "TMA2, TMA4: C4X"
         },
         {
+          "id": "fl099pr",
+          "text": "LB3: SSTS V2 "
+        },
+        {
           "id": "5wt833f",
           "text": "TMA1: SSTS V2"
         }
@@ -47,8 +51,8 @@
           "text": "LB1: WSTS V3"
         },
         {
-          "id": "hui86yr",
-          "text": "S206.2: HD Cali Extractors "
+          "id": "adh1exh",
+          "text": "Multus.2: SS SSP HD "
         },
         {
           "id": "ay7fuas",
@@ -57,6 +61,10 @@
         {
           "id": "copzo5z",
           "text": "LB2: SSP V2"
+        },
+        {
+          "id": "hui86yr",
+          "text": "S206.2: HD Cali Extractors "
         }
       ]
     },
@@ -67,10 +75,6 @@
         {
           "id": "6fvjrad",
           "text": "S206.1: HD Curved Shoes "
-        },
-        {
-          "id": "adh1exh",
-          "text": "Multus.2: SS SSP HD "
         }
       ]
     }
