@@ -8,15 +8,15 @@
       "cards": [
         {
           "id": "i3oymnc",
-          "text": "Robodrill: XC cut / hone"
-        },
-        {
-          "id": "yuwrz3p",
-          "text": "EDM1, EDM2: XC"
+          "text": "Robodrill: XC cut / hone (down for 3nine install)"
         },
         {
           "id": "ozd0e01",
           "text": "Multus.1: XC"
+        },
+        {
+          "id": "yuwrz3p",
+          "text": "EDM1, EDM2: XC"
         }
       ]
     },
@@ -33,12 +33,12 @@
           "text": "TMA2, TMA4: C4X"
         },
         {
-          "id": "fl099pr",
-          "text": "LB3: SSTS V2 "
+          "id": "6fvjrad",
+          "text": "S206.1: HD Flat Shoes (qty 25, then HD Curved again)"
         },
         {
-          "id": "5wt833f",
-          "text": "TMA1: SSTS V2"
+          "id": "fl099pr",
+          "text": "LB3: SSTS V2 "
         }
       ]
     },
@@ -46,10 +46,6 @@
       "id": "c9jaavw",
       "title": "Group 3",
       "cards": [
-        {
-          "id": "agkt324",
-          "text": "LB1: WSTS V3"
-        },
         {
           "id": "adh1exh",
           "text": "Multus.2: SS SSP HD "
@@ -64,7 +60,7 @@
         },
         {
           "id": "hui86yr",
-          "text": "S206.2: HD Cali Extractors "
+          "text": "S206.2: HD Cali Extractors (once we have 600 processed, changeover to HD Ext.) "
         }
       ]
     },
@@ -73,13 +69,16 @@
       "title": "group 4",
       "cards": [
         {
-          "id": "6fvjrad",
-          "text": "S206.1: HD Curved Shoes "
+          "id": "agkt324",
+          "text": "LB1: WSTS V3 (down for insert issues)"
         }
       ]
     }
   ],
   "notes": [
-    "Please make sure that bow bender is running HD Bows, as we need to send a batch of these to heat treat this week. "
+    "Please make sure that bow bender is running HD Bows, as we need to send a batch of these to heat treat this week. ",
+    "Need to run qty 25 HD Flat trigger shoes on S206.1 (top priority), then switch back to HD Curved (lower priority) ",
+    "TMA1 down for Hartwig repair (expected near end of this week) ",
+    "TMA5 expected to be down for 3nine install Wednesday"
   ]
 }
