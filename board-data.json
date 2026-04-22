@@ -1,6 +1,6 @@
 {
   "title": "TODAY'S PRIORITIES",
-  "dateRange": "04/21/26 - 04/21/26",
+  "dateRange": "04/22/26",
   "groups": [
     {
       "id": "673htk5",
@@ -33,10 +33,6 @@
           "text": "TMA2, TMA4: C4X"
         },
         {
-          "id": "6fvjrad",
-          "text": "S206.1: HD Flat Shoes (qty 25, then HD Curved again)"
-        },
-        {
           "id": "fl099pr",
           "text": "LB3: SSTS V2 "
         }
@@ -61,6 +57,10 @@
         {
           "id": "hui86yr",
           "text": "S206.2: HD Cali Extractors (once we have 600 processed, changeover to HD Ext.) "
+        },
+        {
+          "id": "6fvjrad",
+          "text": "S206.1: HD Curved Shoes"
         }
       ]
     },
