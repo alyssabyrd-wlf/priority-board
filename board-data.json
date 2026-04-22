@@ -35,6 +35,10 @@
         {
           "id": "fl099pr",
           "text": "LB3: SSTS V2 "
+        },
+        {
+          "id": "qa54m63",
+          "text": "EDM3: HD Bow flats (tumble overnight)"
         }
       ]
     },
@@ -56,7 +60,7 @@
         },
         {
           "id": "hui86yr",
-          "text": "S206.2: HD Cali Extractors (once we have 600 processed, changeover to HD Ext.) "
+          "text": "S206.2: HD Cali Extractors"
         },
         {
           "id": "6fvjrad",
@@ -76,7 +80,7 @@
     }
   ],
   "notes": [
-    "Please make sure that bow bender is running HD Bows, as we need to send a batch of these to heat treat this week. ",
+    "Please make sure that bow bender is running HD Bows, as we need to send a batch of these to heat treat on Thursday. ",
     "TMA1 down for Hartwig repair (expected near end of this week) ",
     "TMA5 expected to be down for 3nine install Wednesday"
   ]
