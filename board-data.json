@@ -1,6 +1,6 @@
 {
-  "title": "TODAY'S PRIORITIES",
-  "dateRange": "Wednesday 04/22/26",
+  "title": "WEEKEND PRIORITIES",
+  "dateRange": "04/23/26 - 04/26/26",
   "groups": [
     {
       "id": "673htk5",
@@ -8,7 +8,7 @@
       "cards": [
         {
           "id": "i3oymnc",
-          "text": "Robodrill: XC cut / hone (down for 3nine install)"
+          "text": "Robodrill: XC cut / hone"
         },
         {
           "id": "ozd0e01",
@@ -38,7 +38,11 @@
         },
         {
           "id": "qa54m63",
-          "text": "EDM3: HD Bow flats (tumble overnight)"
+          "text": "EDM3: HD Bow flats (tumble overnight, & bending)"
+        },
+        {
+          "id": "6fvjrad",
+          "text": "S206.1: HD Curved Shoes"
         }
       ]
     },
@@ -61,10 +65,6 @@
         {
           "id": "hui86yr",
           "text": "S206.2: HD Cali Extractors"
-        },
-        {
-          "id": "6fvjrad",
-          "text": "S206.1: HD Curved Shoes"
         }
       ]
     },
@@ -74,7 +74,7 @@
       "cards": [
         {
           "id": "agkt324",
-          "text": "LB1: WSTS V3 (down for insert issues)"
+          "text": "LB1: WSTS V3"
         }
       ]
     }
