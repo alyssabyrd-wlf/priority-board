@@ -1,6 +1,6 @@
 {
   "title": "WEEKEND PRIORITIES",
-  "dateRange": "04/23/26 - 04/26/26",
+  "dateRange": "04/30/26 - 05/03/26",
   "groups": [
     {
       "id": "673htk5",
@@ -29,6 +29,10 @@
           "text": "Broach: C4X & XC"
         },
         {
+          "id": "88qal1z",
+          "text": "TMA3: Firefly Parts (Attended Only)"
+        },
+        {
           "id": "7divqrm",
           "text": "TMA2, TMA4: C4X"
         },
@@ -39,10 +43,6 @@
         {
           "id": "qa54m63",
           "text": "EDM3: HD Bow flats (tumble overnight, & bending)"
-        },
-        {
-          "id": "6fvjrad",
-          "text": "S206.1: HD Curved Shoes"
         }
       ]
     },
@@ -52,19 +52,23 @@
       "cards": [
         {
           "id": "adh1exh",
-          "text": "Multus.2: SS SSP HD "
-        },
-        {
-          "id": "ay7fuas",
-          "text": "TMA5: WSTS HD"
+          "text": "Multus.2: WS SSP HD "
         },
         {
           "id": "copzo5z",
           "text": "LB2: SSP V2"
         },
         {
+          "id": "ay7fuas",
+          "text": "TMA5: WSTS HD"
+        },
+        {
           "id": "hui86yr",
-          "text": "S206.2: HD Cali Extractors"
+          "text": "S206.2: HD Extractors"
+        },
+        {
+          "id": "6fvjrad",
+          "text": "S206.1: HD Curved Shoes"
         }
       ]
     },
@@ -74,14 +78,13 @@
       "cards": [
         {
           "id": "agkt324",
-          "text": "LB1: WSTS V3"
+          "text": "LB1: ESCO 3oz Sight-glasses "
         }
       ]
     }
   ],
   "notes": [
-    "Please make sure that bow bender is running HD Bows, as we need to send a batch of these to heat treat on Thursday. ",
-    "TMA1 down for Hartwig repair (expected near end of this week) ",
+    "Please make sure that bow bender is running HD Bows. ",
     "105 XC Barrels waiting on saw cut rework (pre heat treated barrels) "
   ]
 }
